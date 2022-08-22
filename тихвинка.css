@@ -144,6 +144,7 @@ button {
     justify-content: center;
 }
 .plan {
+   height: auto;
    width: 450px; 
    max-width: 500px;
    min-width: 250px;
